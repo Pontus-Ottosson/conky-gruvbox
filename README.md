@@ -6,6 +6,7 @@ Just place the conky.conf in ~/.config/conky<br>
 Make sure to edit the eth0 and wlan0 adapter names accordingly.
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/83efa056-6fae-45fc-a70e-9c3d6bf51010)
+![image](https://github.com/user-attachments/assets/829eba70-593c-485a-9489-0458a9dfc933)
+
 
 
